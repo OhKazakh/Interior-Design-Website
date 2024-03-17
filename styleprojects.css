@@ -200,27 +200,6 @@ header p{
     background: rgba(0,0,0,0.45);
 }
 
-@media(max-width: 1000px){
-    .gallery .image{
-        width: calc(100% / 2);
-    }
-}
-@media(max-width: 600px){
-    .gallery .image{
-        width: 100%;
-        padding: 4px;
-    }
-    .sub-title{
-        font-size: 25px;
-    }
-    .contain{
-        flex-direction: column;
-    }
-    .contain a{
-        padding: 3%;
-    }
-}
-
 .social-icons{
     padding: 3%;
 }
@@ -360,4 +339,26 @@ header p{
 
 .navbar ul li:hover::after {
     width: 100%;
+}
+
+
+@media(max-width: 1000px){
+    .gallery .image{
+        width: calc(100% / 2);
+    }
+}
+@media(max-width: 600px){
+    .gallery .image{
+        width: 100%;
+        padding: 4px;
+    }
+    .sub-title{
+        font-size: 25px;
+    }
+    .contain{
+        flex-direction: column;
+    }
+    .contain a{
+        padding: 3%;
+    }
 }
