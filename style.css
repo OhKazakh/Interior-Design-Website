@@ -388,7 +388,7 @@ header{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    text-align: center;
+    text-align: left;
     align-items: center;
 }
 
@@ -493,6 +493,14 @@ header{
     }
     .container5{
         display: grid;
+    }
+
+    .container6 h1{
+        font-size: 32px;
+        width: 80%;
+    }
+    .container6 ul li{
+        width: 80%;
     }
     .aboutmeimg{
         height: 450px;
