@@ -376,6 +376,7 @@ header{
 .aboutmeimg{
     border-radius: 10px;
     height: 500px;
+    width: 100%;
     margin: 50px 100px;
 }
 
