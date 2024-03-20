@@ -385,7 +385,7 @@ header{
 .aboutmeimg{
     border-radius: 10px;
     height: 500px;
-    width: 100%;
+    width: auto;
     margin: 50px 100px;
 }
 
@@ -418,8 +418,8 @@ header{
 }
 
 .container6 ul li{
-    list-style: none;
     font-size: 14px;
+    width: 80%;
     padding: 1%;
 }
 
