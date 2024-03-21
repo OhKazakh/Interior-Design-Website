@@ -1,6 +1,5 @@
 * {
     margin: 0;
-
     font-family: sans-serif;
     color: #959988;
     font-family: "Roboto", sans-serif;
@@ -521,7 +520,7 @@ header{
         display: grid;
     }
     .container6 h1{
-        font-size: 32px;
+        font-size: 25px;
         width: 85%;
     }
     .container6 ul li{
