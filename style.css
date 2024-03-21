@@ -117,6 +117,7 @@ header{
     position: fixed;
     top: 0;
     z-index: 1000;
+    padding-left: 0px;
 }
 
 .navbar ul li {
@@ -554,10 +555,10 @@ header{
         font-size: 25px;
     }
     .navbar ul li a{
-        font-size: 10px;
+        font-size: 12px;
     }
     .navbar ul li{
-        gap: 10px;
+        margin-left: 5px;
     }
     .navbar{
         padding: 10px 0;
