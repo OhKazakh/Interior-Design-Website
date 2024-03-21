@@ -551,15 +551,16 @@ header{
         font-size: 25px;
     }
     #processp h2{
-        font-size: 28px;
+        font-size: 25px;
     }
     .navbar ul li a{
-        font-size: 10px;
+        font-size: 15px;
     }
     .navbar ul li{
-        margin-left: 10px;
+        display: flex;
+        gap: 10px;
     }
     .navbar{
-        padding: 10px 0;
+        padding: 10px;
     }
 }
