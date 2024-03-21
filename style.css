@@ -80,7 +80,7 @@ html{
 }
 
 .background{
-    transform: translateZ(-1px) scale(2);
+    transform: translateZ(-1px) scale(2.2);
 }
 
 .pbackground{
@@ -94,7 +94,7 @@ html{
 }
 
 .pbackground{
-    transform: translateZ(-1px) scale(2);
+    transform: translateZ(-1px) scale(2.5);
 }
 
 header{
@@ -166,8 +166,8 @@ header{
     margin: 30px auto;
     line-height: 25px;
     font-size: 25px;
-    color: #959988;
-    text-shadow: 0 0 5px black;
+    color: #fff;
+    text-shadow: 0 0 5px whitesmoke;
 }
 
 .logo {
