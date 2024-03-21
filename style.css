@@ -557,7 +557,7 @@ header{
         font-size: 15px;
     }
     .navbar ul li{
-        display: flex;
+        display: inline;
         flex-direction: row;
         gap: 10px;
     }
