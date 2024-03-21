@@ -554,4 +554,7 @@ header{
     #processp h2{
         font-size: 25px;
     }
+    .navbar ul li a{
+        font-size: 10px;
+    }
 }
