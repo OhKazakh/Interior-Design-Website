@@ -556,6 +556,9 @@ header{
     .navbar ul li a{
         font-size: 10px;
     }
+    .navbar ul li{
+        margin-left: 10px;
+    }
     .navbar{
         padding: 10px 0;
     }
